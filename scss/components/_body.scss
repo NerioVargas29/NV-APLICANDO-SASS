@@ -1,0 +1,34 @@
+body{
+    background-color: #082032;
+    width: 100%;
+
+    .menu-container{
+        width: 100%;
+        height:auto;
+
+        .container-logo{
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            align-items: center;
+        }
+        .barra-navegacion{
+            display: flex;
+            flex-wrap: wrap;
+            justify-content:end;
+            justify-items: center;
+            background-color: #1e5128;
+
+         .lista-navegacion {
+                list-style: none;
+                display: flex;
+                flex-wrap: wrap;
+                flex-direction:row;
+                justify-content: end;
+                padding:5px;
+                margin: 5px;
+       
+        }   
+    }
+}
+}
